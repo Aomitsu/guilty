@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "guilty",
+    "guilty-http",
+]
